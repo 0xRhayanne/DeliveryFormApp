@@ -19,6 +19,7 @@
   },
   "homepage": "https://github.com/0xRhayanne/DeliveryFormApp#readme",
   "dependencies": {
-    "didyoumean": "^1.2.2"
+    "didyoumean": "^1.2.2",
+    "mongodb": "^7.1.0"
   }
 }
