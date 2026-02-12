@@ -1,0 +1,24 @@
+{
+  "name": "deliveryformapp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/0xRhayanne/DeliveryFormApp.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/0xRhayanne/DeliveryFormApp/issues"
+  },
+  "homepage": "https://github.com/0xRhayanne/DeliveryFormApp#readme",
+  "dependencies": {
+    "didyoumean": "^1.2.2"
+  }
+}
