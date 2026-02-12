@@ -1,5 +1,5 @@
 [build]
-command = "npm --prefix delivery-form-frontend run build"
+command = "npm install && npm install --prefix delivery-form-frontend && npm run --prefix delivery-form-frontend build"
 publish = "delivery-form-frontend/build"
 functions = "netlify/functions"
 
