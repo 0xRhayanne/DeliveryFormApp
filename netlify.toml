@@ -1,8 +1,8 @@
 [build]
-base = "delivery-form-frontend"
-command = "npm run build"
-publish = "build"
-functions = "../netlify/functions"
+command = "npm --prefix delivery-form-frontend run build"
+publish = "delivery-form-frontend/build"
+functions = "netlify/functions"
 
 [functions]
 node_bundler = "esbuild"
+
