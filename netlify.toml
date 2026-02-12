@@ -1,5 +1,5 @@
 [build]
-base = "frontend"
+base = "delivery-form-frontend"
 command = "npm run build"
 publish = "build"
 functions = "netlify/functions"
