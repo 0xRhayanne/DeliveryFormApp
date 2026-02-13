@@ -295,18 +295,18 @@ function DeliveryFormLayout() {
           return true; // ✅ Passed all checks
         };
 
-       const handleSubmit = async (e) => {
-         e.preventDefault();
-         const ok = await validateForm();
-         if (!ok) return;
+     const handleSubmit = async (e) => {
+       e.preventDefault();
+       const ok = await validateForm();
+       if (!ok) return;
 
-         /*console.log("Form submitted:", form);*/
+       // Send full form data to Netlify Function
+       await fetch("/.netlify/functions/save-form", {
+         method: "POST",
+         headers: { "Content-Type": "application/json" },
+         body: JSON.stringify(form),
+       });
 
-         await fetch("/api/submitForm", {
-           method: "POST",
-           headers: { "Content-Type": "application/json" },
-           body: JSON.stringify(form),
-         });
 
 
          // ✅ Show success tooltip
@@ -332,7 +332,8 @@ function DeliveryFormLayout() {
              safety: "",
              state: "",
              typePlace: "",
-             whatsapp: ""
+             whatsapp: "",
+             uploadImages: []
            });
          };
 
