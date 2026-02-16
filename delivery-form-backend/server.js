@@ -49,6 +49,11 @@ app.get("/api/check-domain", (req, res) => {
   });
 });
 
+// ✅ Root route (homepage)
+app.get("/", (req, res) => {
+  res.send("Backend is running 🚀");
+});
+
 // ✅ Start backend server
 const port = process.env.PORT || 3001;
 app.listen(port, () => {
