@@ -23,33 +23,3 @@ function FormList() {
 }
 
 export default FormList;
-
-
-
-/*import React, { useEffect, useState } from "react";
-
-function FormList() {
-  const [forms, setForms] = useState([]);
-
-  useEffect(() => {
-    fetch("http://localhost:8080/api/forms")
-      .then((res) => res.json())
-      .then((data) => setForms(data));
-  }, []);
-
-  return (
-    <div>
-      <h2>All Delivery Forms</h2>
-      <ul>
-        {forms.map((f) => (
-          <li key={f.id}>
-            {f.customerName} - {f.address} - {f.status}
-          </li>
-        ))}
-      </ul>
-    </div>
-  );
-}
-
-export default FormList;
-*/
