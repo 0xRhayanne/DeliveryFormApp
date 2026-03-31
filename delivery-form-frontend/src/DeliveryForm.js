@@ -18,18 +18,6 @@ function DeliveryForm() {
     console.log("Form submitted:", { ...form, items: form.items.split(",") });
   };
 
-
-  /*const handleSubmit = async (e) => {
-    e.preventDefault();
-    const response = await fetch("http://localhost:8080/api/forms", {
-      method: "POST",
-      headers: { "Content-Type": "application/json" },
-      body: JSON.stringify({ ...form, items: form.items.split(",") }),
-    });
-    const data = await response.json();
-    console.log("Saved:", data);
-  };*/
-
   return (
     <form onSubmit={handleSubmit} style={{ marginBottom: "20px" }}>
       <input name="customerName" placeholder="Customer Name" onChange={handleChange} />
