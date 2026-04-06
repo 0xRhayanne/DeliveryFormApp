@@ -1,7 +1,6 @@
 const express = require("express");
 const dns = require("dns");
 const didYouMean = require("didyoumean");
-
 const app = express();
 
 // ✅ Trusted domains list
