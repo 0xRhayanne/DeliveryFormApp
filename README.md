@@ -7,3 +7,7 @@ It combines:
 * A **React frontend** for user interaction
 * A **Node.js (Express) backend** for validation logic
 * Optional **Java/Spring structure** (present in repo for expansion)
+
+---
+
+## ✨ Features
