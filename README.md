@@ -11,3 +11,6 @@ It combines:
 ---
 
 ## ✨ Features
+
+* 📄 Submit delivery forms through a clean UI
+* 📬 Email domain validation:
