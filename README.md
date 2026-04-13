@@ -14,3 +14,6 @@ It combines:
 
 * 📄 Submit delivery forms through a clean UI
 * 📬 Email domain validation:
+  * ✅ Trusted domain whitelist (e.g., Gmail, Outlook)
+  * 🔍 Typo detection (e.g., `gamil.com → gmail.com`)
+  * 🌐 MX record verification (real email domain check)
