@@ -17,3 +17,6 @@ It combines:
   * ✅ Trusted domain whitelist (e.g., Gmail, Outlook)
   * 🔍 Typo detection (e.g., `gamil.com → gmail.com`)
   * 🌐 MX record verification (real email domain check)
+* ⚡ Fast API with Express
+* 🔁 Frontend ↔ Backend integration via proxy
+* 🩺 Health check endpoint (`/health`)
