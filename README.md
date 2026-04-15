@@ -20,3 +20,7 @@ It combines:
 * ⚡ Fast API with Express
 * 🔁 Frontend ↔ Backend integration via proxy
 * 🩺 Health check endpoint (`/health`)
+  
+---
+
+## 🛠 Tech Stack
