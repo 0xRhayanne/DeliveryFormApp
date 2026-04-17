@@ -24,3 +24,5 @@ It combines:
 ---
 
 ## 🛠 Tech Stack
+
+### Frontend
