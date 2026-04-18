@@ -26,3 +26,7 @@ It combines:
 ## 🛠 Tech Stack
 
 ### Frontend
+
+* React
+* React Scripts
+* Testing Library
