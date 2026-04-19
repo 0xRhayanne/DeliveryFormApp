@@ -32,3 +32,8 @@ It combines:
 * Testing Library
 
 ### Backend
+
+* Node.js
+* Express
+* DNS (Node core module)
+* didyoumean (string suggestion)
