@@ -39,3 +39,5 @@ It combines:
 * didyoumean (string suggestion)
 
 ### Other
+
+* MongoDB (dependency included for future data storage)
