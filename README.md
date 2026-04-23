@@ -41,3 +41,7 @@ It combines:
 ### Other
 
 * MongoDB (dependency included for future data storage)
+
+---
+
+## 📁 Project Structure
