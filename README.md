@@ -45,3 +45,22 @@ It combines:
 ---
 
 ## 📁 Project Structure
+
+```
+DeliveryFormApp/
+│
+├── delivery-form-frontend/   # React frontend
+│   ├── src/
+│   │   ├── DeliveryForm.js
+│   │   ├── FormList.js
+│   │   └── App.js
+│
+├── delivery-form-backend/    # Express backend
+│   ├── server.js
+│
+├── package.json              # Root config
+├── netlify.toml              # Deployment config
+└── pom.xml                   # Java backend (optional/unused)
+```
+
+---
