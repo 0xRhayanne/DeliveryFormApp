@@ -68,3 +68,9 @@ DeliveryFormApp/
 ## ⚙️ Installation & Setup
 
 ### 1️⃣ Clone the repository
+
+```bash
+git clone https://github.com/0xRhayanne/DeliveryFormApp.git
+cd DeliveryFormApp
+```
+
