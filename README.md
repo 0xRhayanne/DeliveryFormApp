@@ -64,3 +64,7 @@ DeliveryFormApp/
 ```
 
 ---
+
+## ⚙️ Installation & Setup
+
+### 1️⃣ Clone the repository
