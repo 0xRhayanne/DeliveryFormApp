@@ -73,4 +73,8 @@ DeliveryFormApp/
 git clone https://github.com/0xRhayanne/DeliveryFormApp.git
 cd DeliveryFormApp
 ```
+---
 
+---
+
+### 2️⃣ Install dependencies
