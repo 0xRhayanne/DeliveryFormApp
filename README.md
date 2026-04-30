@@ -80,3 +80,8 @@ cd DeliveryFormApp
 ### 2️⃣ Install dependencies
 
 #### Backend
+
+```bash
+cd delivery-form-backend
+npm install
+```
