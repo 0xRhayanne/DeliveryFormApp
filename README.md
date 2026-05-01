@@ -86,3 +86,8 @@ cd delivery-form-backend
 npm install
 ```
 #### Frontend
+
+```bash
+cd ../delivery-form-frontend
+npm install
+```
