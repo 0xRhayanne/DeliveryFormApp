@@ -91,3 +91,6 @@ npm install
 cd ../delivery-form-frontend
 npm install
 ```
+---
+
+## ▶️ Running the Application
