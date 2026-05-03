@@ -94,3 +94,5 @@ npm install
 ---
 
 ## ▶️ Running the Application
+
+### Start Backend (Port 3001)
