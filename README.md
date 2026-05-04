@@ -96,3 +96,8 @@ npm install
 ## ▶️ Running the Application
 
 ### Start Backend (Port 3001)
+
+```bash
+cd delivery-form-backend
+node server.js
+```
