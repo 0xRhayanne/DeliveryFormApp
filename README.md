@@ -104,3 +104,8 @@ node server.js
 ---
 
 ### Start Frontend (Port 3000)
+
+```bash
+cd delivery-form-frontend
+npm start
+```
