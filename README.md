@@ -110,3 +110,7 @@ cd delivery-form-frontend
 npm start
 ```
 The frontend is configured with a proxy:
+
+```
+http://localhost:3001
+```
