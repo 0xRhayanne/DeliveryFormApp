@@ -117,3 +117,5 @@ http://localhost:3001
 ---
 
 ## 🔌 API Endpoints
+
+### Health Check
