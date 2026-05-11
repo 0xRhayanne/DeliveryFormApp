@@ -114,3 +114,6 @@ The frontend is configured with a proxy:
 ```
 http://localhost:3001
 ```
+---
+
+## 🔌 API Endpoints
