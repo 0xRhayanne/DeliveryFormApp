@@ -118,6 +118,7 @@ http://localhost:3001
 
 ## 🔌 API Endpoints
 
+Response:
 ### Health Check
 
 ```
