@@ -133,3 +133,7 @@ GET /health
 ---
 
 ### Check Email Domain
+
+```
+GET /api/check-domain?domain=gmail.com
+```
