@@ -138,3 +138,7 @@ GET /health
 GET /api/check-domain?domain=gmail.com
 ```
 #### ✅ Valid response
+
+```json
+{ "valid": true }
+```
