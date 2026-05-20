@@ -137,6 +137,8 @@ GET /health
 ```
 GET /api/check-domain?domain=gmail.com
 ```
+#### ❌ Invalid response examples
+
 #### ✅ Valid response
 
 ```json
