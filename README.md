@@ -142,11 +142,15 @@ GET /api/check-domain?domain=gmail.com
 #### ✅ Valid response
 
 ```json
+{ "valid": true }
+```
+
+```json
 { "valid": false, "reason": "Invalid TLD" }
 ```
+
 ```json
 { "valid": false, "reason": "Did you mean gmail.com?" }
 ```
-{ "valid": true }
-```
+
 
