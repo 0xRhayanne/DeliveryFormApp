@@ -153,4 +153,6 @@ GET /api/check-domain?domain=gmail.com
 { "valid": false, "reason": "Did you mean gmail.com?" }
 ```
 
-
+```json
+{ "valid": false, "reason": "No MX records" }
+```
