@@ -156,3 +156,6 @@ GET /api/check-domain?domain=gmail.com
 ```json
 { "valid": false, "reason": "No MX records" }
 ```
+---
+
+## 🧠 How Validation Works
