@@ -159,3 +159,6 @@ GET /api/check-domain?domain=gmail.com
 ---
 
 ## 🧠 How Validation Works
+
+1. **TLD validation**
+   Ensures the domain uses a valid top-level domain (`.com`, `.org`, etc.)
