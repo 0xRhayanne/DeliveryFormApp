@@ -162,3 +162,6 @@ GET /api/check-domain?domain=gmail.com
 
 1. **TLD validation**
    Ensures the domain uses a valid top-level domain (`.com`, `.org`, etc.)
+
+2. **Trusted provider check**
+   Only allows known email providers (e.g., Gmail, Yahoo)
