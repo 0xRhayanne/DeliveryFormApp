@@ -165,3 +165,6 @@ GET /api/check-domain?domain=gmail.com
 
 2. **Trusted provider check**
    Only allows known email providers (e.g., Gmail, Yahoo)
+
+3. **Typo correction**
+   Uses `didyoumean` to suggest correct domains
