@@ -168,3 +168,6 @@ GET /api/check-domain?domain=gmail.com
 
 3. **Typo correction**
    Uses `didyoumean` to suggest correct domains
+
+4. **MX record lookup**
+   Confirms the domain can actually receive emails
