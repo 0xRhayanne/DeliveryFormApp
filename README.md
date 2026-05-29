@@ -171,3 +171,7 @@ GET /api/check-domain?domain=gmail.com
 
 4. **MX record lookup**
    Confirms the domain can actually receive emails
+
+---
+
+## 🚀 Deployment
