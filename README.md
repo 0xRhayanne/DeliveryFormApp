@@ -175,3 +175,5 @@ GET /api/check-domain?domain=gmail.com
 ---
 
 ## 🚀 Deployment
+
+* Frontend ready for deployment via **Netlify** (`netlify.toml` included)
