@@ -180,3 +180,4 @@ GET /api/check-domain?domain=gmail.com
 * Backend can be deployed on:
  * Render
  * Railway
+ * VPS / Docker
