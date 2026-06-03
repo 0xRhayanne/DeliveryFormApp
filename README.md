@@ -181,3 +181,7 @@ GET /api/check-domain?domain=gmail.com
   * Render
   * Railway
   * VPS / Docker
+    
+---
+
+## 📌 Future Improvements
