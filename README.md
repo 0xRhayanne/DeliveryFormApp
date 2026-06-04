@@ -185,3 +185,5 @@ GET /api/check-domain?domain=gmail.com
 ---
 
 ## 📌 Future Improvements
+
+* 🗄 Database integration (MongoDB already included)
