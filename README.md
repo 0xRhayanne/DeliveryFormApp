@@ -188,3 +188,4 @@ GET /api/check-domain?domain=gmail.com
 
 * 🗄 Database integration (MongoDB already included)
 * 🔐 Authentication system
+* 📊 Admin dashboard for submissions
