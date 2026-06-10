@@ -190,3 +190,4 @@ GET /api/check-domain?domain=gmail.com
 * 🔐 Authentication system
 * 📊 Admin dashboard for submissions
 * 🌍 Support for more email providers
+* 🧪 Improved test coverage
