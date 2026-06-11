@@ -191,3 +191,7 @@ GET /api/check-domain?domain=gmail.com
 * 📊 Admin dashboard for submissions
 * 🌍 Support for more email providers
 * 🧪 Improved test coverage
+  
+---
+
+## 🤝 Contributing
