@@ -195,3 +195,5 @@ GET /api/check-domain?domain=gmail.com
 ---
 
 ## 🤝 Contributing
+
+Contributions are welcome!
