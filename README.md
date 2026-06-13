@@ -197,3 +197,5 @@ GET /api/check-domain?domain=gmail.com
 ## 🤝 Contributing
 
 Contributions are welcome!
+
+1. Fork the repo
