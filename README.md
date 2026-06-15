@@ -199,3 +199,4 @@ GET /api/check-domain?domain=gmail.com
 Contributions are welcome!
 
 1. Fork the repo
+2. Create a new branch
