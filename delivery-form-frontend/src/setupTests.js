@@ -1,5 +1,5 @@
 // jest-dom adds custom jest matchers for asse
 // allows you to do things like:
 // expect(element).toHaveTextContent(/=
-// learn more: https://github.com/testing-library/jest-dom
+// learn more: https://github.com/testing-libr
 import '@testing-library/jest-dom';
