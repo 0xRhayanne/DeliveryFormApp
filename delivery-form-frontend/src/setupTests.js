@@ -1,4 +1,4 @@
 // jest-dom adds custom jest matchers for asse
 // allows you to do things like:
-// expect(element)
+// ex
 import '@testing-library/jest-dom';
