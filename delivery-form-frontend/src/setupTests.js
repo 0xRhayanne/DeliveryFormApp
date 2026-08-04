@@ -1,4 +1,4 @@
-// jest-dom adds custom jest matc
+// jest-dom adds custom jes
 
 
 import '@testing-library/jest-dom';
